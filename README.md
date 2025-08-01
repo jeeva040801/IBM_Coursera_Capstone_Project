@@ -1,28 +1,44 @@
-# IBM Coursera Capstone Project
+# IBM Data Science Capstone Project
 
-Welcome to the IBM Coursera Capstone Project repository! This project is the final assignment for the IBM Data Science Professional Certificate, where you will apply the skills learned throughout the course to solve a real-world problem.
+This repository contains the Capstone Project for the **IBM Data Science Professional Certificate** on Coursera. The project applies various data science and machine learning techniques to solve a real-world problem using Python.
 
-## Table of Contents
+## 📁 Repository Structure
 
-- [Project Overview](#project-overview)
-- [Dataset](#dataset)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+IBM_Coursera_Capstone_Project/
+│
+├── Capstone Project Notebook.ipynb # Main project notebook
+├── Data/ # Folder for datasets (if any)
+├── Outputs/ # Folder for results, models, charts, etc.
+└── README.md # Project description (this file)
 
-## Project Overview
+## 📌 Project Overview
 
-The goal of this capstone project is to leverage data science and machine learning techniques to solve a business problem using a public dataset. The project demonstrates the end-to-end workflow including data collection, data cleaning, exploratory data analysis, modeling, and result interpretation.
+The Capstone Project aims to apply all the skills learned throughout the IBM Data Science course. It typically involves:
 
-## Dataset
+- Data collection and wrangling  
+- Exploratory Data Analysis (EDA)  
+- Data visualization  
+- Clustering or classification models  
+- Presentation of insights  
 
-This project uses publicly available datasets which may be referenced or included in the repository. Please refer to the [data](./data/) directory or project documentation for details on the dataset used.
+> 📝 *Note: The specific dataset and problem statement may vary depending on the project theme.*
 
-## Installation
+## 🛠️ Tools & Technologies Used
 
-1. **Clone the repository:**
+- Python  
+- Jupyter Notebook  
+- Pandas, NumPy  
+- Matplotlib, Seaborn  
+- Scikit-learn  
+- Folium (for map visualizations)  
+- IBM Watson Studio (optional)  
+
+## ▶️ How to Run
+
+1. Clone the repository:
    ```bash
    git clone https://github.com/jeeva040801/IBM_Coursera_Capstone_Project.git
+2. Navigate to the project folder and open the notebook:
+   cd IBM_Coursera_Capstone_Project
+jupyter notebook "Capstone Project Notebook.ipynb"
+3. Run each cell in the notebook to see the full workflow and outputs.
