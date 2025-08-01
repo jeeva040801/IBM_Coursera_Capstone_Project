@@ -21,7 +21,6 @@ The Capstone Project aims to apply all the skills learned throughout the IBM Dat
 - Clustering or classification models  
 - Presentation of insights  
 
-> 📝 *Note: The specific dataset and problem statement may vary depending on the project theme.*
 
 ## 🛠️ Tools & Technologies Used
 
