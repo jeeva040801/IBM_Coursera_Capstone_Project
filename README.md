@@ -21,7 +21,3 @@ The Capstone Project aims to apply all the skills learned throughout the IBM Dat
 - Matplotlib, Seaborn  
 - Scikit-learn  
 - Folium (for map visualizations)  
-
-
-jupyter notebook "Capstone Project Notebook.ipynb"
-3. Run each cell in the notebook to see the full workflow and outputs.
